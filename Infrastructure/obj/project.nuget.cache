@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eJB7j6FSQijNBZ/oEphXCMmx5T3phwUt6VDDNv+ZUMLtyg2j6yUXPpWruN1ffa5xDhNNiQ5zPnyNl/I6QKrh2Q==",
+  "dgSpecHash": "OIGQrIJbe11oYHCsyPIjNciBw5EARxqS3GGVpgLfITT8O9C99pkABja/2L4GE69VzNgEGSR6Lu+QX2WpflN9eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\julio\\OneDrive\\Education\\Training\\Developer\\API\\skinet\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\julio\\OneDrive\\Education\\Training\\Developer\\CSharp\\skinet\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julio\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.5\\microsoft.data.sqlite.core.5.0.5.nupkg.sha512",
     "C:\\Users\\julio\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
